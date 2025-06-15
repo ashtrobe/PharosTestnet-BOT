@@ -8,7 +8,7 @@ Pharos Testnet BOT
 ## Features
 
   - Auto Get Account Information
-  - Auto Run With [Monosans](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/all.txt) Proxy - `Choose 1`
+  - Auto Run With [Proxyscrape Free Proxy](https://proxyscrape.com/free-proxy-list) - `Choose 1`
   - Auto Run With Private Proxy - `Choose 2`
   - Auto Run Without Proxy - `Choose 3`
   - Auto Rotate Invalid Proxies - `y` or `n`
@@ -19,8 +19,6 @@ Pharos Testnet BOT
   - Auto Add LP WPHRS/USDC - WPHRS/USDT
   - Auto Swap WPHRS - USDC - USDT
   - Multi Accounts
-
-### Note: Other features will be update soon.
 
 ## Requiremnets
 
